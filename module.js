@@ -1,0 +1,1 @@
+module.exports = angular.module('rogerz/color-picker-for-angular', []);

@@ -1,0 +1,23 @@
+{
+  "name": "color-picker-for-angular",
+  "repo": "rogerz/color-picker-for-angular",
+  "description": "angular directive colorpicker using spectrum",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "rogerz/spectrum": "*",
+    "component/jquery": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "module.js",
+    "directives.js"
+  ],
+  "paths": [
+  ],
+  "local": [
+  ]
+}
